@@ -1,4 +1,4 @@
-**[Problem statement:]{.underline}**
+**[Problem statement:]**
 
 Cardiovascular diseases are the leading cause of death globally. It is
 therefore necessary to identify the causes and develop a system to
