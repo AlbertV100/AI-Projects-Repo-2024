@@ -1,4 +1,4 @@
-**[Problem statement:]**
+**Problem statement:**
 
 Cardiovascular diseases are the leading cause of death globally. It is
 therefore necessary to identify the causes and develop a system to
@@ -6,10 +6,10 @@ predict heart attacks in an effective manner. The data below has the
 information about the factors that might have an impact on
 cardiovascular health.
 
-**[Dataset description:]{.underline}**
+**Dataset description:**
 
   ----------------------------------- -----------------------------------
-  **[Variable]{.underline}**          **[Description]{.underline}**
+  **Variable**          **Description**
 
   Age                                 Age in years
 
@@ -48,7 +48,7 @@ cardiovascular health.
   Target                              1 or 0
   ----------------------------------- -----------------------------------
 
-**[Synopsis: Cardio Vascular Disease Predictive analysis]{.underline}**
+**Synopsis: Cardio Vascular Disease Predictive analysis**
 
 The Machine Learning project analysed a cardiovascular disease (CVD)
 dataset comprising 303 instances and 14 features, including age, sex,
